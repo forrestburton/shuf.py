@@ -1,6 +1,6 @@
 # shuf.py
 
-Python Script which outputs random permutations of lines based on input
+Python Script for UCLA CS 97 which outputs random permutations of lines based on input
 
 
 Positional arguments:
